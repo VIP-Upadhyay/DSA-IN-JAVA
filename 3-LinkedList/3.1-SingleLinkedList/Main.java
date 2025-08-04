@@ -18,5 +18,6 @@ public class Main {
         singleLinkedList.traversal();
         singleLinkedList.deleteSSL();
         singleLinkedList.traversal();
+        System.err.println("hello world");
     }
 }
